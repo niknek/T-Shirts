@@ -1,0 +1,2 @@
+# T-Shirts
+Strategy pattern
